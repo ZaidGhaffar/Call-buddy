@@ -1,0 +1,6 @@
+python-dotenv
+google-genai
+Pyaudio
+fastapi
+uvicorn
+jinja2
